@@ -40,7 +40,7 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
       <td>Visão Geral de Cursos e Bootcamps da DIO</td>
       <td align="center">
         <a href="https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot">
-           <img align="center" alt="Material de Apoio" src="https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot">
+           <img align="center" alt="Material de Apoio"src="file:///C:/Users/TI/OneDrive/Imagens/Nova%20pasta/Bootcamp%20Caixa.pdf"
         </a>                                  
       </td>
     </tr>
