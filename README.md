@@ -48,8 +48,8 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
       <td>02</td>
       <td>Dicas e Materiais de Apoio</td>
       <td align="center">
-        <a href="https://web.dio.me/play?section_type=course">
-           <img align="center" alt="Material de Apoio" src="https://web.dio.me/play?section_type=course">
+        <a href="https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot">
+           <img align="center" alt="Material de Apoio" src="https://web.dio.me/project/criando-um-ebook-com-chatgpt-midjourney/learning/4ccf3a39-46fc-4ca7-8c26-17899e35da5b?back=/track/coding-the-future-ia-generativa-microsoft-copilot&tab=undefined&moduleId=undefined">
         </a>
       </td>    
     </tr>        
