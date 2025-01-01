@@ -35,16 +35,15 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
     </tr>
   </thead>
   <tbody align="left">
-    <tr>
+    <tr>      
       <td>01</td>
-      <td>Visão Geral de Cursos e Bootcamps da DIO</td>
+      <td>Dicas e Materiais de Apoio</td>
       <td align="center">
         <a href="https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot">
-           <img align="center" alt="Material de Apoio"src="file:///C:/Users/TI/OneDrive/Imagens/Nova%20pasta/Bootcamp%20Caixa.pdf"
-        </a>                                  
-      </td>
-    </tr>
-    <tr>
+           <img align="center" alt="Material de Apoio" src="https://github.com/user-attachments/assets/418efc19-c0ee-4250-8ea7-a6232d5af2f8">
+        </a>
+      </td> 
+      <tr>
       <td>02</td>
       <td>Dicas e Materiais de Apoio</td>
       <td align="center">
