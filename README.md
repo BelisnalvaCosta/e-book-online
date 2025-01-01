@@ -1,11 +1,11 @@
 # e-book-online
 
-Pojeto feito na IDE Visual Studio Code xom a linguagem: Html, CSS e Javascript[^1].
+Pojeto feito na IDE Visual Studio Code com a linguagem: Html, CSS e Javascript[^1].
 
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Projeto de desafio Dio Campus Expert</span>
+    <span>Projeto e-book-online - Bootc. Caixa</span>
 </h1>
 
 Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio.
@@ -20,7 +20,7 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
 ## Front-end e Back-end
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![ia](https://github.com/user-attachments/assets/eb3150c5-1785-41ae-8091-9cff51ebfdeb) - ChatGPT
+![ia](https://github.com/user-attachments/assets/eb3150c5-1785-41ae-8091-9cff51ebfdeb)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 <br>
@@ -39,8 +39,8 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
       <td>01</td>
       <td>Visão Geral de Cursos e Bootcamps da DIO</td>
       <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="">
+        <a href="https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot">
+           <img align="center" alt="Material de Apoio" src="https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot">
         </a>                                  
       </td>
     </tr>
@@ -48,20 +48,11 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
       <td>02</td>
       <td>Dicas e Materiais de Apoio</td>
       <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="">
+        <a href="https://web.dio.me/play?section_type=course">
+           <img align="center" alt="Material de Apoio" src="https://web.dio.me/play?section_type=course">
         </a>
       </td>    
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Curso</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="">
-        </a>
-      </td>    
-    </tr    
+    </tr>        
   </tbody>
   <tfoot></tfoot>
 </table>
@@ -77,14 +68,14 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
         <span><b>Belisnalva Costa</b></span>
       </a>
       <br>
-      <span>Aprendendo a desenvolver Banck-end e Front-end</span>
+      <span>Aprendendo a desenvolver Back-end e Front-end</span>
     </td>
   </tr>
 </table>
 
 ## Referências
 - [DIO.me)
-- [Bootcamp Caixa](https:///)
+- [Bootcamp Caixa](https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot)
   
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/BelisnalvaCosta/">Bella</a>.</div>
