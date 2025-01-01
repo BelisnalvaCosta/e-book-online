@@ -40,7 +40,7 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
       <td>Dicas e Materiais de Apoio</td>
       <td align="center">
         <a href="https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot">
-           <img align="center" alt="Material de Apoio" src="https://github.com/user-attachments/assets/418efc19-c0ee-4250-8ea7-a6232d5af2f8">
+           <img align="center" alt="Material de Apoio" src="https://github.com/user-attachments/assets/418efc19-c0ee-4250-8ea7-a6232d5af2f8" width="200" heigth="150">
         </a>
       </td> 
       <tr>
@@ -79,4 +79,4 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/BelisnalvaCosta/">Bella</a>.</div>
 
-[^1]: Este arquivo em Markdow é de autoria da Expert Elidiana (dio) e fiz este projeto também com a orientação do Expert Venilton FalvoJr.
+[^1]: Este arquivo em Markdow é de autoria da Expert Elidiana (dio) e fiz este projeto também com a orientação do Expert Felipe Aguiar.
