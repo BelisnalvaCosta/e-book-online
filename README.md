@@ -45,10 +45,10 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
       </td> 
       <tr>
       <td>02</td>
-      <td>Materiais de Apoio</td>
+      <td>FlipBook</td>
       <td align="center">
         <a href="https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot">
-           <img align="center" alt="FlipBook - master" src="file:///C:/Users/TI/OneDrive/Imagens/Nova%20pasta/Flip%20Book%20-%20Intelig%C3%AAncia%20Artificial%20e%20Sociedade.html">
+           <img align="center" alt="FlipBook - master" src="https://github.com/BelisnalvaCosta/e-book-online.git">
         </a>
       </td>    
     </tr>        
