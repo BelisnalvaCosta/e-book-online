@@ -37,18 +37,18 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
   <tbody align="left">
     <tr>      
       <td>01</td>
-      <td>Dicas e Materiais de Apoio</td>
+      <td>Meu Certificado</td>
       <td align="center">
         <a href="https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot">
-           <img align="center" alt="Material de Apoio" src="https://github.com/user-attachments/assets/418efc19-c0ee-4250-8ea7-a6232d5af2f8" width="200" heigth="150">
+           <img align="center" alt="Certificado" src="https://github.com/user-attachments/assets/418efc19-c0ee-4250-8ea7-a6232d5af2f8" width="200" heigth="150">
         </a>
       </td> 
       <tr>
       <td>02</td>
-      <td>Dicas e Materiais de Apoio</td>
+      <td>Materiais de Apoio</td>
       <td align="center">
         <a href="https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot">
-           <img align="center" alt="Material de Apoio" src="https://web.dio.me/project/criando-um-ebook-com-chatgpt-midjourney/learning/4ccf3a39-46fc-4ca7-8c26-17899e35da5b?back=/track/coding-the-future-ia-generativa-microsoft-copilot&tab=undefined&moduleId=undefined">
+           <img align="center" alt="FlipBook - master" src="file:///C:/Users/TI/OneDrive/Imagens/Nova%20pasta/Flip%20Book%20-%20Intelig%C3%AAncia%20Artificial%20e%20Sociedade.html">
         </a>
       </td>    
     </tr>        
