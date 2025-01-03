@@ -1,6 +1,6 @@
 # e-book-online
 
-Pojeto feito na IDE Visual Studio Code com a linguagem: Html, CSS e Javascript[^1].
+Projeto feito na IDE Visual Studio Code com a linguagem: Html, CSS e Javascript[^1].
 
 <h1>
     <a href="https://www.dio.me/">
