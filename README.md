@@ -47,7 +47,7 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
       <td>02</td>
       <td>FlipBook</td>
       <td align="center">
-        <a href="https://github.com/BelisnalvaCosta/e-book-online.git">
+        <a href=" https://belisnalvacosta.github.io/e-book-online/">
            <img align="center" alt="FlipBook - master" src="https://github.com/user-attachments/assets/debbe8d1-f8fc-4849-8ee4-e6f7bee1cfe8"width="200" heigth="150">
         </a>
       </td>    
