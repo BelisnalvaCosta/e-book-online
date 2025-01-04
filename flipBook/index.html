@@ -39,6 +39,11 @@
             padding: 20px;
             overflow-y: auto;
         }
+
+        .flipbook .content-text {
+            text-align: justify;        
+        }
+
         .flipbook .footer {
             display: flex;
             justify-content: space-between;
@@ -80,7 +85,7 @@
         </div>
         <div class="footer">
             <button id="prev-btn" disabled><i class="fas fa-arrow-left"></i> Anterior</button>
-            <div class="page-info" id="page-info">Página 1 de 7</div>
+            <div class="page-info" id="page-info">Página 1 de 10</div>
             <button id="next-btn">Próximo <i class="fas fa-arrow-right"></i></button>
         </div>
     </div>
@@ -88,16 +93,17 @@
     <script>
         const pages = [
             "<img src='./src/img/Desafio_Responsabilidade_Etica_Social_Ajustado.pdf.jpg' alt='Capa do Flip Book'>",
-            "<h2>Sumário</h2><ul><li>1. <Introdução</li><li>2. Princípios da Inteligência Artificial: Inclusão Social e LGPD</li><li>3. Confiabilidade, Privacidade e Segurança</li><li>4. Transparência e Responsabilidade das Organizações Públicas</li><li>5. Conclusão e Perspectivas Futuras</li></ul>",
+            "<h2>Sumário</h2><ul><li>1. <Introdução</li><li>2. Princípios da Inteligência Artificial: Inclusão Social e LGPD</li><li>3. Confiabilidade, Privacidade e Segurança</li><li>4. Transparência e Responsabilidade das Organizações Públicas</li><li>5. Conclusão e Perspectivas Futuras</li><li>6. Agradecimento</li><li>7. Fonte de pesquisa</li><ul></ul>",
             "<h2>Introdução</h2><p>Vivemos em uma sociedade profundamente impactada pela tecnologia e pela Inteligência Artificial (IA). Empresas, bancos e governos estão cada vez mais dependentes da coleta e análise de dados para tomar decisões, melhorar serviços e aumentar a eficiência. No entanto, essas inovações também trazem desafios éticos e sociais significativos, principalmente relacionados ao uso justo e seguro das tecnologias. Este e-book aborda como esses desafios afetam diferentes setores e propõe soluções que possam beneficiar tanto iniciantes quanto experientes nos campos empresarial, bancário e de cibersegurança.</p>",
 
-            "<h2>Princípios da Inteligência Artificial: Inclusão Social e LGPD</h2><p>A inclusão social é um pilar fundamental para garantir que todos, independentemente de condições econômicas, sociais ou físicas, tenham acesso aos benefícios da tecnologia. Programas de IA podem, por exemplo, ajudar pessoas com deficiência, melhorar a educação em regiões remotas e aumentar a eficiência dos serviços de saúde. No entanto, a inclusão só é possível com legislações como a Lei Geral de Proteção de Dados Pessoais (LGPD), que protege a privacidade e os direitos dos cidadãos. Exemplo prático: Uma empresa bancária que utiliza IA para oferecer créditos personalizados deve garantir que os dados sensíveis dos clientes sejam tratados de maneira ética e segura, evitando discriminações ou prejuízos financeiros.</p>",
+            "<h2>Princípios da Inteligência Artificial: Inclusão Social e LGPD</h2><p>A inclusão social é um pilar fundamental para garantir que todos, independentemente de condições econômicas, sociais ou físicas, tenham acesso aos benefícios da tecnologia. Programas de IA podem, por exemplo, ajudar pessoas com deficiência, melhorar a educação em regiões remotas e aumentar a eficiência dos serviços de saúde. No entanto, a inclusão só é possível com legislações como a Lei Geral de Proteção de Dados Pessoais (LGPD), que protege a privacidade e os direitos dos cidadãos.<br> Exemplo prático:<br> Uma empresa bancária que utiliza IA para oferecer créditos personalizados deve garantir que os dados sensíveis dos clientes sejam tratados de maneira ética e segura, evitando discriminações ou prejuízos financeiros.</p>",
+            "<img src='./src/img/Inclusao-social.jpg' alt='inclusão social'>",
+            "<h2>Confiabilidade, Privacidade e Segurança</h2><p>Confiabilidade na IA depende de sua capacidade de operar sem vieses, com precisão e transparência. Para os setores bancário e empresarial, isso significa que algoritmos devem ser auditáveis, e os dados devem ser protegidos contra acessos não autorizados. Privacidade e segurança são preocupantes não apenas para indivíduos, mas também para organizações que precisam proteger suas bases de dados contra ataques cibernéticos.<br> Dicas para boas práticas:<br> • Implementar autenticação multifator.<br> •  Utilizar criptografia de dados em trânsito e em repouso.<br> •  Treinar funcionários para reconhecer ameaças cibernéticas.</p>",
+            "<img src='./src/img/segmão.jpg' alt='segurança na palma da mão'>",
+            "<h2>Transparência e Responsabilidade das Organizações Públicas</h2><p>Organizações públicas têm o dever de informar claramente como utilizam os dados dos cidadãos e de garantir que essas informações sejam protegidas. No entanto, a falta de recursos e a complexidade da legislação podem dificultar a conformidade com as leis como a LGPD.<br> Exemplo:<br> Um governo municipal que utiliza um sistema de IA para distribuir auxílios sociais deve ser transparente sobre os critérios utilizados para garantir que os benefícios sejam distribuídos de forma justa.<br> Soluções:<br> •  Publicação de relatórios regulares sobre o uso de dados.<br> •  Criação de canais de comunicação para esclarecer dúvidas da população.</p>",
             
-            "<h2>Confiabilidade, Privacidade e Segurança</h2><p>Confiabilidade na IA depende de sua capacidade de operar sem vieses, com precisão e transparência. Para os setores bancário e empresarial, isso significa que algoritmos devem ser auditáveis, e os dados devem ser protegidos contra acessos não autorizados. Privacidade e segurança são preocupantes não apenas para indivíduos, mas também para organizações que precisam proteger suas bases de dados contra ataques cibernéticos. Dicas para boas práticas: • Implementar autenticação multifator. •  Utilizar criptografia de dados em trânsito e em repouso. •  Treinar funcionários para reconhecer ameaças cibernéticas.</p>",
-            
-            "<h2>Transparência e Responsabilidade das Organizações Públicas</h2><p>Organizações públicas têm o dever de informar claramente como utilizam os dados dos cidadãos e de garantir que essas informações sejam protegidas. No entanto, a falta de recursos e a complexidade da legislação podem dificultar a conformidade com as leis como a LGPD. Exemplo: Um governo municipal que utiliza um sistema de IA para distribuir auxílios sociais deve ser transparente sobre os critérios utilizados para garantir que os benefícios sejam distribuídos de forma justa. Soluções: •  Publicação de relatórios regulares sobre o uso de dados. •  Criação de canais de comunicação para esclarecer dúvidas da população.</p>",
-            
-            "<h2>Conclusão e Perspectivas Futuras</h2><p>A responsabilidade ética e social na era da IA exige um compromisso coletivo. Empresários, especialistas em cibersegurança e governantes precisam colaborar para criar um ambiente onde a tecnologia sirva ao bem comum, respeitando direitos fundamentais e promovendo inclusão. Para avançar, é essencial investir em educação, desenvolver legislações mais robustas e incentivar a transparência nas organizações. Com esses passos, é possível construir um futuro mais justo e seguro para todos.<p>________________________________________</p><h2>Fontes Confiáveis:<p>1.  Lei Geral de Proteção de Dados Pessoais (LGPD): https://www.gov.br/lgpd.<p>2. IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems: https://ethicsinaction.ieee.org.<p>3. Relatório da ONU sobre o Impacto da IA na Sociedade: https://www.un.org/ia-report.<p></h2>"
+            "<h2>Conclusão e Perspectivas Futuras</h2><p>A responsabilidade ética e social na era da IA exige um compromisso coletivo. Empresários, especialistas em cibersegurança e governantes precisam colaborar para criar um ambiente onde a tecnologia sirva ao bem comum, respeitando direitos fundamentais e promovendo inclusão.<br> Para avançar, é essencial investir em educação, desenvolver legislações mais robustas e incentivar a transparência nas organizações. Com esses passos, é possível construir um futuro mais justo e seguro para todos.</p>",
+            "<h2>Agradecimento</h2><img src='./src/img/cover.png' width='180' heigth='190' alt='cover'><br><p>Agradeço à Caixa, parceira da DIO, por tornar esse bootcamp possível e por investir no desenvolvimento de novos talentos. Essa iniciativa faz toda a diferença na vida de estudantes e profissionais em formação.</p>________________________________________________</p><br> <h4>Fonte de pesquisa:<br>1.  Lei Geral de Proteção de Dados Pessoais (LGPD): https://www.gov.br/lgpd.<br>2. IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems: https://ethicsinaction.ieee.org.<br>3. Relatório da ONU sobre o Impacto da IA na Sociedade: https://www.un.org/ia-report<br>4. ChatGPT Openai (auxiliar e corrigir bugs)<br>5. Youtube (Pesquisa: codingstar-jason)</h4></p>",
         ];
 
         let currentPage = 0;
