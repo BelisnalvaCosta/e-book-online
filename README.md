@@ -9,7 +9,7 @@ Projeto feito na IDE Visual Studio Code com a linguagem: Html, CSS e Javascript[
 </h1>
 
 Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio.
-<img align="center" alt="e-book-online - main" src="https://github.com/user-attachments/assets/43b1b766-967a-45a4-9363-a9aa722961fc" width="200" heigth="150">
+
 ![e-book-online](https://github.com/user-attachments/assets/43b1b766-967a-45a4-9363-a9aa722961fc)
 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
