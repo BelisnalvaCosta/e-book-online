@@ -1,4 +1,4 @@
-# e-book-online
+# ![e-book-online](https://belisnalvacosta.github.io/E-book-link/)
 
 Projeto feito na IDE Visual Studio Code com a linguagem: Html, CSS e Javascript[^1].
 
@@ -49,7 +49,7 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
       <td>02</td>
       <td>e-book-online</td>
       <td align="center">
-        <a href="https://belisnalvacosta.github.io/e-book-online/">
+        <a href="https://belisnalvacosta.github.io/E-book-link/">
            <img align="center" alt="e-book-online - main" src="https://github.com/user-attachments/assets/43b1b766-967a-45a4-9363-a9aa722961fc" width="200" heigth="150">
         </a>
       </td>   
