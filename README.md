@@ -1,4 +1,4 @@
-# ![e-book-online](https://belisnalvacosta.github.io/E-book-link/)
+# e-book-online
 
 Projeto feito na IDE Visual Studio Code com a linguagem: Html, CSS e Javascript[^1].
 
